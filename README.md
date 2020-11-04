@@ -1,4 +1,4 @@
-[![pymongo's github status](https://github-readme-stats.vercel.app/api?username=pymongo&theme=highcontrast&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pymongo&layout=compact&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
+[![pymongo's github status](https://github-readme-stats.vercel.app/api?username=pymongo&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pymongo&theme=radical&layout=compact&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
 
 ```rust
 struct AboutMe;
