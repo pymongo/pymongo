@@ -10,9 +10,9 @@ https://github-readme-stats.vercel.app/api?username=pymongo&show_icons=true&icon
 
 #### current reading book
 - bookname: Beginning Linux programming 4th edition
-- progress: Chapter 2: Shell Programming
+- progress: Chapter 14: Semaphores, Shared Memory, Message Queue
 
 #### plan to read books
 1. The Linux programming interface
-2. Advance programming in the Unix environment 3th edition
+2. TCPIP Illustrated Volume 1 The Protocols 2nd edition
 3. Unix Network Programming The Sockets Networking API 3th edition
