@@ -2,17 +2,8 @@
 
 <!--
 [wakatime](https://wakatime.com/@rust)
-https://github-readme-stats.vercel.app/api?username=pymongo&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true
 -->
 
-#### recently read books
-- The tao of Rust 1st edition
-
-#### current reading book
-- bookname: Beginning Linux programming 4th edition
-- progress: Chapter 14: Semaphores, Shared Memory, Message Queue
-
-#### plan to read books
-1. The Linux programming interface
-2. TCPIP Illustrated Volume 1 The Protocols 2nd edition
-3. Unix Network Programming The Sockets Networking API 3th edition
+#### current reading books
+- Database System Concepts 7th edition
+- Compilers Principles, Techniques, Tools 2th edition
