@@ -5,5 +5,4 @@
 -->
 
 #### current reading books
-- Database System Concepts 7th edition
-- Compilers Principles, Techniques, Tools 2th edition
+- Understand The Linux Kernel 3nd edition
